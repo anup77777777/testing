@@ -1,10 +1,86 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\ACER\\OneDrive\\Desktop\\class\\WebApplication6\\",
+  "WorkspaceRootPath": "C:\\Users\\ACER\\OneDrive\\Attachments\\Desktop\\webapplicatication\\WebApplication6\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F7F544E3-ADF6-45B8-8621-9073892455CF}|WebApplication6.csproj|c:\\users\\acer\\onedrive\\desktop\\class\\webapplication6\\model\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F7F544E3-ADF6-45B8-8621-9073892455CF}|WebApplication6.csproj|c:\\users\\acer\\onedrive\\attachments\\desktop\\webapplicatication\\webapplication6\\factories\\istudentfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7F544E3-ADF6-45B8-8621-9073892455CF}|WebApplication6.csproj|solutionrelative:factories\\istudentfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7F544E3-ADF6-45B8-8621-9073892455CF}|WebApplication6.csproj|c:\\users\\acer\\onedrive\\attachments\\desktop\\webapplicatication\\webapplication6\\dependancyregistration\\dependencyregistrar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7F544E3-ADF6-45B8-8621-9073892455CF}|WebApplication6.csproj|solutionrelative:dependancyregistration\\dependencyregistrar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7F544E3-ADF6-45B8-8621-9073892455CF}|WebApplication6.csproj|c:\\users\\acer\\onedrive\\attachments\\desktop\\webapplicatication\\webapplication6\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7F544E3-ADF6-45B8-8621-9073892455CF}|WebApplication6.csproj|solutionrelative:data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7F544E3-ADF6-45B8-8621-9073892455CF}|WebApplication6.csproj|c:\\users\\acer\\onedrive\\attachments\\desktop\\webapplicatication\\webapplication6\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7F544E3-ADF6-45B8-8621-9073892455CF}|WebApplication6.csproj|solutionrelative:controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7F544E3-ADF6-45B8-8621-9073892455CF}|WebApplication6.csproj|c:\\users\\acer\\onedrive\\attachments\\desktop\\webapplicatication\\webapplication6\\repositories\\unitofworks\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7F544E3-ADF6-45B8-8621-9073892455CF}|WebApplication6.csproj|solutionrelative:repositories\\unitofworks\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7F544E3-ADF6-45B8-8621-9073892455CF}|WebApplication6.csproj|c:\\users\\acer\\onedrive\\attachments\\desktop\\webapplicatication\\webapplication6\\repositories\\unitofworks\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7F544E3-ADF6-45B8-8621-9073892455CF}|WebApplication6.csproj|solutionrelative:repositories\\unitofworks\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7F544E3-ADF6-45B8-8621-9073892455CF}|WebApplication6.csproj|c:\\users\\acer\\onedrive\\attachments\\desktop\\webapplicatication\\webapplication6\\repositories\\studentrepo\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7F544E3-ADF6-45B8-8621-9073892455CF}|WebApplication6.csproj|solutionrelative:repositories\\studentrepo\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7F544E3-ADF6-45B8-8621-9073892455CF}|WebApplication6.csproj|c:\\users\\acer\\onedrive\\attachments\\desktop\\webapplicatication\\webapplication6\\repositories\\studentrepo\\istudentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7F544E3-ADF6-45B8-8621-9073892455CF}|WebApplication6.csproj|solutionrelative:repositories\\studentrepo\\istudentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7F544E3-ADF6-45B8-8621-9073892455CF}|WebApplication6.csproj|c:\\users\\acer\\onedrive\\attachments\\desktop\\webapplicatication\\webapplication6\\repositories\\genericrepository\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7F544E3-ADF6-45B8-8621-9073892455CF}|WebApplication6.csproj|solutionrelative:repositories\\genericrepository\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7F544E3-ADF6-45B8-8621-9073892455CF}|WebApplication6.csproj|c:\\users\\acer\\onedrive\\attachments\\desktop\\webapplicatication\\webapplication6\\repositories\\genericrepository\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7F544E3-ADF6-45B8-8621-9073892455CF}|WebApplication6.csproj|solutionrelative:repositories\\genericrepository\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7F544E3-ADF6-45B8-8621-9073892455CF}|WebApplication6.csproj|c:\\users\\acer\\onedrive\\attachments\\desktop\\webapplicatication\\webapplication6\\model\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F7F544E3-ADF6-45B8-8621-9073892455CF}|WebApplication6.csproj|solutionrelative:model\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7F544E3-ADF6-45B8-8621-9073892455CF}|WebApplication6.csproj|c:\\users\\acer\\onedrive\\attachments\\desktop\\webapplicatication\\webapplication6\\factories\\studentfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7F544E3-ADF6-45B8-8621-9073892455CF}|WebApplication6.csproj|solutionrelative:factories\\studentfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7F544E3-ADF6-45B8-8621-9073892455CF}|WebApplication6.csproj|c:\\users\\acer\\onedrive\\attachments\\desktop\\webapplicatication\\webapplication6\\dto\\studentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7F544E3-ADF6-45B8-8621-9073892455CF}|WebApplication6.csproj|solutionrelative:dto\\studentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7F544E3-ADF6-45B8-8621-9073892455CF}|WebApplication6.csproj|c:\\users\\acer\\onedrive\\attachments\\desktop\\webapplicatication\\webapplication6\\services\\istudentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7F544E3-ADF6-45B8-8621-9073892455CF}|WebApplication6.csproj|solutionrelative:services\\istudentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7F544E3-ADF6-45B8-8621-9073892455CF}|WebApplication6.csproj|c:\\users\\acer\\onedrive\\attachments\\desktop\\webapplicatication\\webapplication6\\services\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7F544E3-ADF6-45B8-8621-9073892455CF}|WebApplication6.csproj|solutionrelative:services\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7F544E3-ADF6-45B8-8621-9073892455CF}|WebApplication6.csproj|c:\\users\\acer\\onedrive\\attachments\\desktop\\webapplicatication\\webapplication6\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F7F544E3-ADF6-45B8-8621-9073892455CF}|WebApplication6.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7F544E3-ADF6-45B8-8621-9073892455CF}|WebApplication6.csproj|c:\\users\\acer\\onedrive\\attachments\\desktop\\webapplicatication\\webapplication6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7F544E3-ADF6-45B8-8621-9073892455CF}|WebApplication6.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7F544E3-ADF6-45B8-8621-9073892455CF}|WebApplication6.csproj|c:\\users\\acer\\onedrive\\attachments\\desktop\\webapplicatication\\webapplication6\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F7F544E3-ADF6-45B8-8621-9073892455CF}|WebApplication6.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7F544E3-ADF6-45B8-8621-9073892455CF}|WebApplication6.csproj|c:\\users\\acer\\onedrive\\attachments\\desktop\\webapplicatication\\webapplication6\\webapplication6.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{F7F544E3-ADF6-45B8-8621-9073892455CF}|WebApplication6.csproj|solutionrelative:webapplication6.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7F544E3-ADF6-45B8-8621-9073892455CF}|WebApplication6.csproj|c:\\users\\acer\\onedrive\\attachments\\desktop\\webapplicatication\\webapplication6\\webapplication6.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F7F544E3-ADF6-45B8-8621-9073892455CF}|WebApplication6.csproj|solutionrelative:webapplication6.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,19 +90,266 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 10,
               "Title": "Student.cs",
-              "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\Desktop\\class\\WebApplication6\\Model\\Student.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\Attachments\\Desktop\\webapplicatication\\WebApplication6\\Model\\Student.cs",
               "RelativeDocumentMoniker": "Model\\Student.cs",
-              "ToolTip": "C:\\Users\\ACER\\OneDrive\\Desktop\\class\\WebApplication6\\Model\\Student.cs",
+              "ToolTip": "C:\\Users\\ACER\\OneDrive\\Attachments\\Desktop\\webapplicatication\\WebApplication6\\Model\\Student.cs",
               "RelativeToolTip": "Model\\Student.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAUAAAAAAAAAA==",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAzwBEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-27T02:22:59.034Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\Attachments\\Desktop\\webapplicatication\\WebApplication6\\Repositories\\UnitOfWorks\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "Repositories\\UnitOfWorks\\IUnitOfWork.cs",
+              "ToolTip": "C:\\Users\\ACER\\OneDrive\\Attachments\\Desktop\\webapplicatication\\WebApplication6\\Repositories\\UnitOfWorks\\IUnitOfWork.cs",
+              "RelativeToolTip": "Repositories\\UnitOfWorks\\IUnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T02:37:19.836Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\Attachments\\Desktop\\webapplicatication\\WebApplication6\\Repositories\\UnitOfWorks\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "Repositories\\UnitOfWorks\\UnitOfWork.cs",
+              "ToolTip": "C:\\Users\\ACER\\OneDrive\\Attachments\\Desktop\\webapplicatication\\WebApplication6\\Repositories\\UnitOfWorks\\UnitOfWork.cs",
+              "RelativeToolTip": "Repositories\\UnitOfWorks\\UnitOfWork.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwAUAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T02:41:13.665Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\Attachments\\Desktop\\webapplicatication\\WebApplication6\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "Controllers\\StudentController.cs",
+              "ToolTip": "C:\\Users\\ACER\\OneDrive\\Attachments\\Desktop\\webapplicatication\\WebApplication6\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "Controllers\\StudentController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T03:05:21.728Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\Attachments\\Desktop\\webapplicatication\\WebApplication6\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\ACER\\OneDrive\\Attachments\\Desktop\\webapplicatication\\WebApplication6\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T02:16:13.79Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DependencyRegistrar.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\Attachments\\Desktop\\webapplicatication\\WebApplication6\\DependancyRegistration\\DependencyRegistrar.cs",
+              "RelativeDocumentMoniker": "DependancyRegistration\\DependencyRegistrar.cs",
+              "ToolTip": "C:\\Users\\ACER\\OneDrive\\Attachments\\Desktop\\webapplicatication\\WebApplication6\\DependancyRegistration\\DependencyRegistrar.cs",
+              "RelativeToolTip": "DependancyRegistration\\DependencyRegistrar.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T03:07:14.344Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IStudentFactory.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\Attachments\\Desktop\\webapplicatication\\WebApplication6\\Factories\\IStudentFactory.cs",
+              "RelativeDocumentMoniker": "Factories\\IStudentFactory.cs",
+              "ToolTip": "C:\\Users\\ACER\\OneDrive\\Attachments\\Desktop\\webapplicatication\\WebApplication6\\Factories\\IStudentFactory.cs",
+              "RelativeToolTip": "Factories\\IStudentFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T02:43:47.239Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "StudentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\Attachments\\Desktop\\webapplicatication\\WebApplication6\\Repositories\\StudentRepo\\StudentRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\StudentRepo\\StudentRepository.cs",
+              "ToolTip": "C:\\Users\\ACER\\OneDrive\\Attachments\\Desktop\\webapplicatication\\WebApplication6\\Repositories\\StudentRepo\\StudentRepository.cs",
+              "RelativeToolTip": "Repositories\\StudentRepo\\StudentRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T02:55:27.119Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IStudentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\Attachments\\Desktop\\webapplicatication\\WebApplication6\\Repositories\\StudentRepo\\IStudentRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\StudentRepo\\IStudentRepository.cs",
+              "ToolTip": "C:\\Users\\ACER\\OneDrive\\Attachments\\Desktop\\webapplicatication\\WebApplication6\\Repositories\\StudentRepo\\IStudentRepository.cs",
+              "RelativeToolTip": "Repositories\\StudentRepo\\IStudentRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T01:59:35.823Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\Attachments\\Desktop\\webapplicatication\\WebApplication6\\Repositories\\GenericRepository\\Repository.cs",
+              "RelativeDocumentMoniker": "Repositories\\GenericRepository\\Repository.cs",
+              "ToolTip": "C:\\Users\\ACER\\OneDrive\\Attachments\\Desktop\\webapplicatication\\WebApplication6\\Repositories\\GenericRepository\\Repository.cs",
+              "RelativeToolTip": "Repositories\\GenericRepository\\Repository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T13:54:15.008Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\Attachments\\Desktop\\webapplicatication\\WebApplication6\\Repositories\\GenericRepository\\IRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\GenericRepository\\IRepository.cs",
+              "ToolTip": "C:\\Users\\ACER\\OneDrive\\Attachments\\Desktop\\webapplicatication\\WebApplication6\\Repositories\\GenericRepository\\IRepository.cs",
+              "RelativeToolTip": "Repositories\\GenericRepository\\IRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T02:54:07.891Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "StudentFactory.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\Attachments\\Desktop\\webapplicatication\\WebApplication6\\Factories\\StudentFactory.cs",
+              "RelativeDocumentMoniker": "Factories\\StudentFactory.cs",
+              "ToolTip": "C:\\Users\\ACER\\OneDrive\\Attachments\\Desktop\\webapplicatication\\WebApplication6\\Factories\\StudentFactory.cs",
+              "RelativeToolTip": "Factories\\StudentFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T02:44:18.118Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "StudentDto.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\Attachments\\Desktop\\webapplicatication\\WebApplication6\\Dto\\StudentDto.cs",
+              "RelativeDocumentMoniker": "Dto\\StudentDto.cs",
+              "ToolTip": "C:\\Users\\ACER\\OneDrive\\Attachments\\Desktop\\webapplicatication\\WebApplication6\\Dto\\StudentDto.cs",
+              "RelativeToolTip": "Dto\\StudentDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T02:35:20.296Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IStudentService.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\Attachments\\Desktop\\webapplicatication\\WebApplication6\\Services\\IStudentService.cs",
+              "RelativeDocumentMoniker": "Services\\IStudentService.cs",
+              "ToolTip": "C:\\Users\\ACER\\OneDrive\\Attachments\\Desktop\\webapplicatication\\WebApplication6\\Services\\IStudentService.cs",
+              "RelativeToolTip": "Services\\IStudentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T03:00:01.08Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "StudentService.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\Attachments\\Desktop\\webapplicatication\\WebApplication6\\Services\\StudentService.cs",
+              "RelativeDocumentMoniker": "Services\\StudentService.cs",
+              "ToolTip": "C:\\Users\\ACER\\OneDrive\\Attachments\\Desktop\\webapplicatication\\WebApplication6\\Services\\StudentService.cs",
+              "RelativeToolTip": "Services\\StudentService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T03:00:24.451Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\Attachments\\Desktop\\webapplicatication\\WebApplication6\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\ACER\\OneDrive\\Attachments\\Desktop\\webapplicatication\\WebApplication6\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-11T02:11:54.323Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\Attachments\\Desktop\\webapplicatication\\WebApplication6\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\ACER\\OneDrive\\Attachments\\Desktop\\webapplicatication\\WebApplication6\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T02:20:13.987Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\Attachments\\Desktop\\webapplicatication\\WebApplication6\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\ACER\\OneDrive\\Attachments\\Desktop\\webapplicatication\\WebApplication6\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-05T02:24:05.368Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "WebApplication6",
+              "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\Attachments\\Desktop\\webapplicatication\\WebApplication6\\WebApplication6.csproj",
+              "RelativeDocumentMoniker": "WebApplication6.csproj",
+              "ToolTip": "C:\\Users\\ACER\\OneDrive\\Attachments\\Desktop\\webapplicatication\\WebApplication6\\WebApplication6.csproj",
+              "RelativeToolTip": "WebApplication6.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-05T02:24:09.11Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "WebApplication6.csproj",
+              "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\Attachments\\Desktop\\webapplicatication\\WebApplication6\\WebApplication6.csproj",
+              "RelativeDocumentMoniker": "WebApplication6.csproj",
+              "ToolTip": "C:\\Users\\ACER\\OneDrive\\Attachments\\Desktop\\webapplicatication\\WebApplication6\\WebApplication6.csproj",
+              "RelativeToolTip": "WebApplication6.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-03T02:34:22.822Z",
               "EditorCaption": ""
             }
           ]

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ACER\\OneDrive\\Desktop\\class\\WebApplication6\\WebApplication6.csproj": {}
+    "C:\\Users\\ACER\\OneDrive\\Attachments\\Desktop\\webapplicatication\\WebApplication6\\WebApplication6.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ACER\\OneDrive\\Desktop\\class\\WebApplication6\\WebApplication6.csproj": {
+    "C:\\Users\\ACER\\OneDrive\\Attachments\\Desktop\\webapplicatication\\WebApplication6\\WebApplication6.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ACER\\OneDrive\\Desktop\\class\\WebApplication6\\WebApplication6.csproj",
+        "projectUniqueName": "C:\\Users\\ACER\\OneDrive\\Attachments\\Desktop\\webapplicatication\\WebApplication6\\WebApplication6.csproj",
         "projectName": "WebApplication6",
-        "projectPath": "C:\\Users\\ACER\\OneDrive\\Desktop\\class\\WebApplication6\\WebApplication6.csproj",
+        "projectPath": "C:\\Users\\ACER\\OneDrive\\Attachments\\Desktop\\webapplicatication\\WebApplication6\\WebApplication6.csproj",
         "packagesPath": "C:\\Users\\ACER\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ACER\\OneDrive\\Desktop\\class\\WebApplication6\\obj\\",
+        "outputPath": "C:\\Users\\ACER\\OneDrive\\Attachments\\Desktop\\webapplicatication\\WebApplication6\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ACER\\AppData\\Roaming\\NuGet\\NuGet.Config",
